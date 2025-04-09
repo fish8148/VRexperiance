@@ -1,13 +1,11 @@
-# VRexperiance
- 
-## Read Me
-- project title: BruceHeadVR
-- project description: 
-- how to install and run the project
-	- Unreal Engine 5.5.4
-- folder structure explanation and challanges
-- known issues and credits
-- license and versioning
+## Bruce Head 'The Wall' VR Experiance
+
+
+### Project Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Copyright
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 
 ## Blueprints
 1. [VR Menu](https://github.com/fish8148/VRexperiance/wiki/Blueprints#vr-menu---in-game-menu-for-vr-game-modes)
@@ -20,13 +18,12 @@
 2. [Initial Setup](https://github.com/fish8148/VRexperiance/wiki/Setup-for-VR-Development-(Meta-Quest)#initial-setup)
 3. [Preview your app-through the Meta Quest Link App](https://github.com/fish8148/VRexperiance/wiki/Setup-for-VR-Development-(Meta-Quest)#preview-your-app-through-the-meta-quest-link-app)
 4. [Packaging APK for your project](https://github.com/fish8148/VRexperiance/wiki/Setup-for-VR-Development-(Meta-Quest)#packaging-apk-for-your-project)
+5. [Tools and Plugins](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins)
 
-## Tools and Plugins
-1. [VR Template](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins#vr-template)
-2. [3rd Person Template](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins#3rd-person-template)
-3. [Variant Manager](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins#variant-manager)
-4. [UMG UI Designer](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins#umg-ui-designer)
-5. [Open XR](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins#open-xr)
-6. [Meta Horizon](https://github.com/fish8148/VRexperiance/wiki/Tools-and-Plugins#meta-horizon)
 
 ## Cloudpoints
+
+## Known Issues and Credits
+
+## License and Versioning
+- Unreal Engine 5.5.4
