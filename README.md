@@ -23,8 +23,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Cloudpoints
+TO BE IMPLMENTED
 
 ## Known Issues and Credits
+TO BE IMPLEMENTED
 
 ## License and Versioning
 - Unreal Engine 5.5.4
+TO BE IMPLEMENTED
